@@ -14,6 +14,7 @@
     background-color: #fff;
     border-left: 1rpx solid #eee;
     border-top: 1rpx solid #eee;
+    font-size: 30rpx;
 }
 
 .grids .item {
